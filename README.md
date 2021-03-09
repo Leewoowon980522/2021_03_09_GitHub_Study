@@ -79,3 +79,34 @@
 3. Shell path를 "Git/bin/sh.exe" -login -i로 변경한다.(경로는 사용자마다 다를 수 있음)
 4. 그후 Terminal을 실행해보면 GitBash로 바뀐걸 확인할수 있다.
 </pre>
+<h3>병합 충돌</h3>
+<h5>main branch의 Test.txt</h5>
+<pre>
+테스트456
+789
+</pre>
+<h5>Sangnam branch의 Test.txt</h5>
+<pre>
+테스트789
+123
+</pre>
+![충돌](https://user-images.githubusercontent.com/76415175/110460209-3cd5be00-8111-11eb-831f-8691de599c1e.PNG)
+<p>같은 줄의 내용이 수정이되니 merge를 하려니 충돌이 난다.</p>
+<pre>
+<<<<<<< HEAD (현재 변경 사항)
+테스트456
+789
+======
+테스트789
+123
+>>>>>>> Sangnam (수신 변경 사항)
+</pre>
+<p>둘중 하나를 선택하거나 변경사항을 고친다.</p>
+![수정후 status](https://user-images.githubusercontent.com/76415175/110460242-44956280-8111-11eb-993a-b981ed956015.PNG)
+<p>그후 git status로 상태를 보면 Test.txt에 붉은 표시가 된걸 볼수있다.</p>
+![수정후 add 후 status](https://user-images.githubusercontent.com/76415175/110460247-47905300-8111-11eb-9004-a9bcda78b603.PNG)
+<p>add후 status상태를 보면 녹색표시로 바뀐걸 볼수있다.</p>
+![마무리 commit](https://user-images.githubusercontent.com/76415175/110460255-49f2ad00-8111-11eb-9358-3ca07c075f24.PNG)
+<p>그후 commit후 push를 해보면 바뀐걸 확인할수 있다.</p>
+
+
