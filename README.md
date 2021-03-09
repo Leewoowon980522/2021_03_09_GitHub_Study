@@ -102,11 +102,14 @@
 >>>>>>> Sangnam (수신 변경 사항)
 </pre>
 <p>둘중 하나를 선택하거나 변경사항을 고친다.</p>
-![수정후 status](https://user-images.githubusercontent.com/76415175/110460242-44956280-8111-11eb-993a-b981ed956015.PNG)
+<img src="https://user-images.githubusercontent.com/76415175/110462163-ace54380-8113-11eb-816c-626b045e090a.PNG">
 <p>그후 git status로 상태를 보면 Test.txt에 붉은 표시가 된걸 볼수있다.</p>
-![수정후 add 후 status](https://user-images.githubusercontent.com/76415175/110460247-47905300-8111-11eb-9004-a9bcda78b603.PNG)
+<img src="https://user-images.githubusercontent.com/76415175/110462165-ace54380-8113-11eb-96d1-fb5f8ce261c9.PNG">
 <p>add후 status상태를 보면 녹색표시로 바뀐걸 볼수있다.</p>
-![마무리 commit](https://user-images.githubusercontent.com/76415175/110460255-49f2ad00-8111-11eb-9358-3ca07c075f24.PNG)
+<img src="https://user-images.githubusercontent.com/76415175/110462153-ab1b8000-8113-11eb-9cf4-a55e7ae01e2f.PNG">
 <p>그후 commit후 push를 해보면 바뀐걸 확인할수 있다.</p>
-
-
+<p>충돌 해결후 main에 Test.txt</p>
+<img src="https://user-images.githubusercontent.com/76415175/110462155-abb41680-8113-11eb-8d32-ddf5f09d6091.PNG">
+<p>충돌 해결후 Sangnam에 Test.txt</p>
+<img src="https://user-images.githubusercontent.com/76415175/110462157-ac4cad00-8113-11eb-8799-58639c5814e3.PNG">
+<p>수정한 대로 병합된걸 확인할수 있다.</p>
