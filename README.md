@@ -90,7 +90,7 @@
 테스트789
 123
 </pre>
-![충돌](https://user-images.githubusercontent.com/76415175/110461750-2b8db100-8113-11eb-99ce-bb7e8780368e.PNG)
+![1](https://user-images.githubusercontent.com/76415175/110462105-9a6b0a00-8113-11eb-9c9a-e7fd1cb5109f.PNG)
 <p>같은 줄의 내용이 수정이되니 merge를 하려니 충돌이 난다.</p>
 <pre>
 <<<<<<< HEAD (현재 변경 사항)
