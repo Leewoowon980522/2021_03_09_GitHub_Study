@@ -1,4 +1,4 @@
-# 2021_03_09_GitHub_Study
+# 2021_03_09_GitHub_Study 
 <h1>Git Bash Study</h1>
 <ul><h2>계정 정보 등록</h2>
 	<li>email등록 : git config --global user.email "계정 email"</li>
