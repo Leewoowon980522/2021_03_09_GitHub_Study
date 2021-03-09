@@ -113,4 +113,4 @@
 <p>충돌 해결후 Sangnam에 Test.txt</p>
 <img src="https://user-images.githubusercontent.com/76415175/110462157-ac4cad00-8113-11eb-8799-58639c5814e3.PNG">
 <p>수정한 대로 병합된걸 확인할수 있다.</p>
-<iframe src="https://user-images.githubusercontent.com/76415175/110481096-8bdc1d00-812a-11eb-9e1d-f326ab093181.mp4">
+<iframe width="640" height="360" src="https://user-images.githubusercontent.com/76415175/110481096-8bdc1d00-812a-11eb-9e1d-f326ab093181.mp4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
