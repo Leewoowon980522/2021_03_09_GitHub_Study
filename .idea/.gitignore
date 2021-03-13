@@ -2,7 +2,11 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
 /../../../../../../../:\Users\hjww0\OneDrive\바탕 화면\Git\.idea/dataSources/
+=======
+/../../../../../../:\Study\Portfolio\Git\2021_03_09_GitHub_Study\.idea/dataSources/
+>>>>>>> 1a31f2938194206bbbf49d8a45e329c9fbd240c0
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
