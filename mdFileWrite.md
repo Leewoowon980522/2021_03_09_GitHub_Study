@@ -124,7 +124,7 @@ ___
   ```
   
 ## 이미지
- ```
+```
  깃허브 md파일에 이미지 파일 을 드래그하거나 Issues에 new issue에서 이미지파일 드래그시 아래와 같은 링크를 얻을수 있다.
  ![file](https://user-images.githubusercontent.com/76415175/112282642-a08fe780-8cca-11eb-89c2-1c9896e7a7b6.PNG)
 ```
