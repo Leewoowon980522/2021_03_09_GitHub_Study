@@ -10,7 +10,7 @@
 ![2 트리상태](https://user-images.githubusercontent.com/76415175/112301688-8ad7ed80-8cdd-11eb-99e8-5714508351ad.PNG)
   
 ## 프로젝트를 우클릭후 Git에 Merge Remotes...를 눌러 Repository를 가져온다.
-(자신의 저장소가 아님)
+(자신의 저장소가 아님)  
 ![3 remote](https://user-images.githubusercontent.com/76415175/112301740-9a573680-8cdd-11eb-8704-c79d0b4607ce.PNG)
   
 ## 그후 remote해온걸 클릭후 OK버튼을 클릭한다.
