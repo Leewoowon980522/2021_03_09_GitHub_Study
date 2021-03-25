@@ -30,3 +30,4 @@
 ## rebase후 선택되어있던 브랜치 상태
 ![7 rebase후 트리상태](https://user-images.githubusercontent.com/76415175/112301834-b1962400-8cdd-11eb-8189-54fa0abe0fab.PNG)
 
+## 그후 작억시작
