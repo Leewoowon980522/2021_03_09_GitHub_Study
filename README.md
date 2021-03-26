@@ -6,7 +6,7 @@
 </ul>
 <ul><h2>계정 정보 확인</h2>
 	<li>email확인 : git config user.email</li>
-	<li>계정확인 : git congfig user.name</li>
+	<li>계정확인 : git config user.name</li>
 </ul>
 <ul><h2>도움말(help)</h2>
 	<li>도움말 : git help</li>
